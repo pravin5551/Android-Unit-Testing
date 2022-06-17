@@ -24,7 +24,7 @@ class TaxTest {
     }
 
     @Test
-    fun `test for wrong error`(){
+    fun `test for wrong error`() {
 
     }
 }
